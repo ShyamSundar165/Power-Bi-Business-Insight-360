@@ -42,6 +42,13 @@ Home Page
 
 ![Home Page](https://github.com/user-attachments/assets/823f7065-f64d-4674-9b93-e479cef91bdb)
 
+Finance View:
+
+Get P & L Statement any Customer /Product/Country/Aggrestion of the Above over time Period More.....
+
+![Finance View](https://github.com/user-attachments/assets/35abf668-1e39-48e5-9afa-8449ba809afa)
+
+
 
 
 
