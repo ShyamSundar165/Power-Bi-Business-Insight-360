@@ -29,7 +29,7 @@ I'm elated to share that I have finally completed Codebasics Power BI course. �
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐭𝐞𝐫𝐦𝐬
 ➡ Gross price
 ➡ Pre-invoice deductions
-➡ Post-Invoice deductions
+➡ Post-Invoice deduction
 ➡ Net Invoice sale
 ➡ Gross Margin
 ➡ Net sales
