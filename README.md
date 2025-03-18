@@ -48,6 +48,24 @@ Get P & L Statement any Customer /Product/Country/Aggrestion of the Above over t
 
 ![Finance View](https://github.com/user-attachments/assets/35abf668-1e39-48e5-9afa-8449ba809afa)
 
+Sales View:
+
+Analize the Performance of your customers Over Key Metrices like Net sales Gross Margin and View same in Gross Matrix
+
+![Sales View](https://github.com/user-attachments/assets/6c01c9b5-fa75-4ba1-82ac-2167d54330fe)
+
+Marketing view:
+
+Analize the Performance of your Products Over Key Metrices like Net sales Gross Margin and View same in Gross Matrix
+
+![Marketing view](https://github.com/user-attachments/assets/933ad6ce-0c4c-42e3-b382-84558c91559b)
+
+Supply Chain View:
+
+Get Forcast Accuracy Net Error and risk profile for product segment categery and customers etc..
+
+![Supply Chain View](https://github.com/user-attachments/assets/a3f0f523-b3cc-4320-930d-ac2bf7346070)
+
 
 
 
